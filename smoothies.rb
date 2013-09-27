@@ -40,4 +40,38 @@ smoothie_ingredients = {
 # Be sure to remove the spaces, as we don't want any air bubbles in our smoothie!
 
 def blend(ingredients)
+  #add keys to array
+
+
+  #flatten array
+
+
+
+  #call sample on ingredients
+
+
+
+
+  #output random string
+
+
+
+
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
